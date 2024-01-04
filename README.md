@@ -1,6 +1,6 @@
 # Transliterate IPA characters to alphanumeric characters
 
-|Code point|IPA character|X-SIMPA|
+|Code point|IPA character|X-SAMPA|
 |----------|-------------|-------|
 U+0250|ɐ|`` 6 ``
 U+0251|ɑ|`` A ``
